@@ -1,2 +1,2 @@
-# simpleTry
-this is a simple try
+# ModelView
+As we all know, MVC is a very important concept in Qt. Qt contains a set of item view classes that use a model/view architecture. And this simple demo is used to help learn and use these classes.
